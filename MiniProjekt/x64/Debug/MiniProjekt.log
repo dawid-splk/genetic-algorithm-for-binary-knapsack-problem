@@ -1,0 +1,17 @@
+﻿  KnapsackProblem.cpp
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(79,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(44,33): warning C4101: 'e': unreferenced local variable
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(58,32): warning C4101: 'e': unreferenced local variable
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(70,32): warning C4101: 'e': unreferenced local variable
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(85,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(134,33): warning C4244: '+=': conversion from 'const _Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\dawid\source\repos\MiniProjekt\MiniProjekt\KnapsackProblem.cpp(135,32): warning C4244: '+=': conversion from 'const _Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+  MiniProjekt.vcxproj -> C:\Users\dawid\source\repos\MiniProjekt\x64\Debug\MiniProjekt.exe
